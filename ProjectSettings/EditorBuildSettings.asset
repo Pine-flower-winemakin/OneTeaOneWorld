@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scene/Scene_/Lowpoly_Demos/Environment_Free/Environment_Free.unity
+    guid: c732593fe76e5a84197f9cd13963f706
+  - enabled: 0
+    path: Assets/Samples/XR Interaction Toolkit/2.2.0/Starter Assets/DemoScene.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
+  m_configObjects:
+    Unity.XR.PICO.LivePreview.Settings: {fileID: 11400000, guid: 3d09e59ad6f268446944d8bcaf5387b7, type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 6bc256ac713147c418ab69b3f66b8a8e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 550e32a451dd3b6428c30b10572d608a, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 2ec28134067358240b16573c3caed351, type: 2}
